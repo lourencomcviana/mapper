@@ -1,0 +1,26 @@
+{
+  "name": "mapper",
+  "version": "1.0.0",
+  "description": "a tool that helps you map objects to another objects!",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lourencomcviana/mapper.git"
+  },
+  "keywords": [
+    "mapping",
+    "objects"
+  ],
+  "author": "lourenço matheus costa viana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lourencomcviana/mapper/issues"
+  },
+  "homepage": "https://github.com/lourencomcviana/mapper#readme",
+  "devDependencies": {
+    "gulp-shell": "^0.5.2"
+  }
+}

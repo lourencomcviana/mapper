@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "allowJs": true,
+        "module":"commonjs" ,
+        "outDir": "dist",
+
+        "watch": false
+        
+    },
+    "include": [
+      "app/index.ts"  
+    ],
+    "compileOnSave": true
+
+    
+}
