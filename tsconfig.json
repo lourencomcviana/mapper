@@ -6,7 +6,7 @@
         "sourceMap": true,
         "allowJs": true,
         "module":"commonjs" ,
-        "outDir": "dist",
+        "outDir": "page/js",
 
         "watch": false
         
